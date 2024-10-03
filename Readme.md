@@ -91,11 +91,3 @@
 | [A Practical Guide To Quantitative Finance Interviews](https://academyflex.com/wp-content/uploads/2024/03/a-practical-guide-to-quantitative-finance-interviews.pdf) | Guide to preparing for quantitative finance job interviews. | Guide (PDF) | Beginner/Intermediate |
 
 ---
-
-### **Column Descriptions**
-
-- **Name and Link**: The title of the resource linked to its URL.
-- **Description**: A brief overview of what the resource offers.
-- **Type**: The format of the resource (e.g., Book, Course, PDF).
-- **Level**: The difficulty or depth of the material (e.g., Beginner, Intermediate, Advanced).
-
