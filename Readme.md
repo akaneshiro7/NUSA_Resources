@@ -50,7 +50,7 @@
 | **Name and Link** | **Description** | **Type** | **Level** |
 | --- | --- | --- | --- |
 | [Analysis of Financial Time Series](https://cpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/0/6796/files/2017/03/analysis-of-financial-time-series-copy-2ffgm3v.pdf) | In-depth analysis techniques for financial time series data | Book (PDF) | Intermediate/Advanced |
-| [Penn State Applied Time Series](https://online.stat.psu.edu/stat510/) | Graduate-level course on applied time series analysis | Course | Graduate/Advanced |
+| [Penn State Applied Time Series](https://online.stat.psu.edu/stat510/) | Graduate-level course on applied time series analysis | Course | Graduate |
 
 ---
 
@@ -80,9 +80,9 @@
 
 | **Name and Link** | **Description** | **Type** | **Level** |
 | --- | --- | --- | --- |
-| [AQR White Papers](https://www.aqr.com/Insights/Research/White-Papers) | Research papers on quantitative investment strategies and insights | White Papers | Advanced |
-| [Max Dama on Automated Trading](http://isomorphisms.sdf.org/maxdama.pdf) | General info about Quant, automated trading systems and strategies | PDF | Intermediate/Advanced |
-| [Other Springer Books](https://www-springer-com.ezproxy.neu.edu/series/3674/books) | Collection of various Springer books across multiple disciplines | Books | Various |
+| [AQR White Papers](https://www.aqr.com/Insights/Research/White-Papers) | Research papers on quantitative investment strategies and insights | White Papers | Various |
+| [Max Dama on Automated Trading](http://isomorphisms.sdf.org/maxdama.pdf) | General info about Quant, automated trading systems and strategies | PDF | All levels |
+| [Other Springer Books](https://www-springer-com.ezproxy.neu.edu/series/3674/books) | Collection of various Springer books across multiple disciplines | Books | All levels |
 
 ---
 
@@ -90,5 +90,5 @@
 
 | **Name and Link** | **Description** | **Type** | **Level** |
 | --- | --- | --- | --- |
-| [A Practical Guide To Quantitative Finance Interviews](https://academyflex.com/wp-content/uploads/2024/03/a-practical-guide-to-quantitative-finance-interviews.pdf) | Guide to preparing for quantitative finance job interviews | Guide (PDF) | Beginner/Intermediate |
+| [A Practical Guide To Quantitative Finance Interviews](https://academyflex.com/wp-content/uploads/2024/03/a-practical-guide-to-quantitative-finance-interviews.pdf) | Guide to preparing for quantitative finance job interviews | Guide (PDF) | all levels |
 ---
