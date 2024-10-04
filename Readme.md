@@ -68,7 +68,6 @@
 | --- | --- | --- | --- |
 | [QuantEcon Lectures](https://quantecon.org/lectures/) | QuantEcon Lectures | Lectures | All Levels |
 | [Quantopian Lectures](https://community.quantopian.com/home) | Quantopian Lectures | Lectures | All levels |
-|
 | [Penn State Online Graduate Programs](https://online.stat.psu.edu/statprogram/graduate-programs) | Probability and Statistics Lectures | Program | Graduate |
 | [Penn State Online Undergraduate Studies](https://online.stat.psu.edu/statprogram/undergraduate-studies) | Probability and Statistice Lectures | Program | Undergraduate |
 | [JPMC Forage](https://www.theforage.com/simulations/jpmorgan/quantitative-research-11oc) | Simulation-based program for quantitative research roles at JPMorgan. | Simulation | Beginner/Intermediate |
