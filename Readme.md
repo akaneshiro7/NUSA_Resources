@@ -66,12 +66,14 @@
 
 | **Name and Link** | **Description** | **Type** | **Level** |
 | --- | --- | --- | --- |
-| [Penn State Online Graduate Programs](https://online.stat.psu.edu/statprogram/graduate-programs) | Graduate programs in statistics and related fields offered online. | Program | Graduate |
-| [Penn State Online Undergraduate Studies](https://online.stat.psu.edu/statprogram/undergraduate-studies) | Undergraduate online studies in statistics and related disciplines. | Program | Undergraduate |
+| [QuantEcon Lectures](https://quantecon.org/lectures/) | QuantEcon Lectures | Lectures | All Levels |
+| [Quantopian Lectures](https://community.quantopian.com/home) | Quantopian Lectures | Lectures | All levels |
+
+| [Penn State Online Graduate Programs](https://online.stat.psu.edu/statprogram/graduate-programs) | Probability and Statistics Lectures | Program | Graduate |
+| [Penn State Online Undergraduate Studies](https://online.stat.psu.edu/statprogram/undergraduate-studies) | Probability and Statistice Lectures | Program | Undergraduate |
 | [JPMC Forage](https://www.theforage.com/simulations/jpmorgan/quantitative-research-11oc) | Simulation-based program for quantitative research roles at JPMorgan. | Simulation | Beginner/Intermediate |
 | [NYU Goodman Lectures](https://math.nyu.edu/~goodman/teaching/teaching.html) | Lecture series on advanced mathematical topics by NYU faculty. | Lectures | Advanced |
 | [NYU Avellane Lectures](https://math.nyu.edu/~avellane/) | Additional lecture resources on quantitative finance and mathematics. | Lectures | Advanced |
-
 ---
 
 # Other
