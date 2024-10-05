@@ -74,6 +74,8 @@
 | [JPMC Forage](https://www.theforage.com/simulations/jpmorgan/quantitative-research-11oc) | Simulation-based program for quantitative research roles at JPMorgan | Simulation | Beginner/Intermediate |
 | [NYU Goodman Lectures](https://math.nyu.edu/~goodman/teaching/teaching.html) | Lecture series on advanced mathematical topics by NYU faculty | Lectures | Advanced |
 | [NYU Avellane Lectures](https://math.nyu.edu/~avellane/) | Additional lecture resources on quantitative finance and mathematics | Lectures | Advanced |
+| [MIT Mathematics with Applications to Finance] (https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/) | MIT Coursework on Financial Mathematics with slides, notes, and videos | Lectures | Undergraduate |
+| [MIT OpenCourseWare](https://ocw.mit.edu/) | MIT Lectures on Various Topics | Lectures | All Levels |
 ---
 
 # Other
