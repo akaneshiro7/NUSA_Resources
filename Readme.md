@@ -49,6 +49,7 @@
 
 | **Name and Link** | **Description** | **Type** | **Level** |
 | --- | --- | --- | --- |
+| [Duke Time Series Notes](https://people.duke.edu/~rnau/411home.htm)| Duke Statistical Forecasting Course Notes and Materials | Course Notes | Beginner/Intermediate |
 | [Analysis of Financial Time Series](https://cpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/0/6796/files/2017/03/analysis-of-financial-time-series-copy-2ffgm3v.pdf) [Datasets for Exercises](https://faculty.chicagobooth.edu/ruey-s-tsay/research/analysis-of-financial-time-series-3rd-edition)| In-depth analysis techniques for financial time series data | Book (PDF) | Intermediate/Advanced |
 | [Penn State Applied Time Series](https://online.stat.psu.edu/stat510/) | Graduate-level course on applied time series analysis | Course | Graduate |
 
